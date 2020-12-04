@@ -3,7 +3,7 @@
 // articleUnix = articleUnix.toISOString();
 // articleUnix=articleUnix.slice(0,10);
 
-let apiTest = 
+let apiTest =
 
 //2-API URL
 let rawgTrailerURL = "https://api.rawg.io/api/games/portal/movies?key=933a5853704142baa8fae9287cb1c067"
